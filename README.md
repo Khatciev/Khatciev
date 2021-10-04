@@ -9,7 +9,7 @@
    ![CodeWars](https://www.codewars.com/users/Khatciev/badges/large) 
 ---
 ### Как вы можете со мной связаться:
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/rhxmm)
+[![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white&&s=250)](https://t.me/rhxmm)
 ![mail](https://img.shields.io/badge/Khatsiev-black?style=for-the-badge&logo=Mail.ru)
 ---
 ### Мои навыки:
