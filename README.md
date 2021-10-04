@@ -8,10 +8,6 @@
 ---
    ![CodeWars](https://www.codewars.com/users/Khatciev/badges/large) 
 ---
-### Как вы можете со мной связаться:
-[![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white&&s=250)](https://t.me/rhxmm)
-![mail](https://img.shields.io/badge/Khatsiev-black?style=for-the-badge&logo=Mail.ru)
----
 ### Мои навыки:
 
 <div>
@@ -40,12 +36,14 @@
 ![Material-UI](https://img.shields.io/badge/-Materilal--UI-blue?style=for-the-badge)
 ![concurrently](https://img.shields.io/badge/-concurrently-black?style=for-the-badge)
 
-### Основные методологии, которые я использую:
+<!-- ### Основные методологии, которые я использую:
 ![concurrently](https://img.shields.io/badge/-MVC-black?style=for-the-badge)
-![функциональное программирование](https://img.shields.io/badge/-функциональное--программирование-black?style=for-the-badge)
+![функциональное программирование](https://img.shields.io/badge/-функциональное--программирование-black?style=for-the-badge) -->
 ---
 ### Чтобы я хотел изучить  в будущем:
 ![typescript](https://img.shields.io/badge/-typescript-blue?style=for-the-badge)
 ![MobX](https://img.shields.io/badge/-MobX-turquoise?style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=for-the-badge)
-
+### Связь со мной:
+[![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white&&s=250)](https://t.me/rhxmm)
+![mail](https://img.shields.io/badge/Khatsiev-black?style=for-the-badge&logo=Mail.ru)
