@@ -44,7 +44,7 @@
 ![concurrently](https://img.shields.io/badge/-MVC-black?style=for-the-badge)
 ![функциональное программирование](https://img.shields.io/badge/-функциональное--программирование-black?style=for-the-badge)
 ---
-### Чтобы я хотел изучить в ближайшее время:
+### Чтобы я хотел изучить  в будущем:
 ![typescript](https://img.shields.io/badge/-typescript-blue?style=for-the-badge)
 ![MobX](https://img.shields.io/badge/-MobX-turquoise?style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=for-the-badge)
