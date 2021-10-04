@@ -6,6 +6,8 @@
 **[открыть код](https://github.com/Khatciev/projekt)**
 
 ---
+   ![CodeWars](https://www.codewars.com/users/Khatciev/badges/large) 
+---
 ### Как вы можете со мной связаться:
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/rhxmm)
 ![mail](https://img.shields.io/badge/Khatsiev-black?style=for-the-badge&logo=Mail.ru)
