@@ -12,7 +12,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/rhxmm)
 ![mail](https://img.shields.io/badge/Khatsiev-black?style=for-the-badge&logo=Mail.ru)
 ---
-### Технологии которыми я пользовался:
+### Мои навыки:
 
 <div>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" />
