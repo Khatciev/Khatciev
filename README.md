@@ -1,9 +1,9 @@
 ## Командные проэкты:
 ### Командный проект cars-rent
-**[открыть код](https://github.com/Khatciev/cars_rent)**
+**[открыть код](https://github.com/Khatciev/cars_rent)** 
 
 ### Командный проект footbal
-**[открыть код](https://github.com/Khatciev/projekt)**
+**[открыть код](https://github.com/Khatciev/projekt)** / **[демо](https://github.com/Khatciev/cars_rent)**
 
 ---
    ![CodeWars](https://www.codewars.com/users/Khatciev/badges/large) 
