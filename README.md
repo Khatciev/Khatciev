@@ -1,13 +1,13 @@
-## Командные проэкты:
-### Командный проект cars-rent
-**[открыть код](https://github.com/Khatciev/cars_rent)** 
-
-### Командный проект footbal
-**[открыть код](https://github.com/Khatciev/projekt)** / **[демо](https://github.com/Khatciev/cars_rent)**
-
+# Командные проекты:
+### Проект cars-rent:
+ ### **[открыть код](https://github.com/Khatciev/cars_rent)** / **[демо](https://autoprokat.herokuapp.com/)**
 ---
+### Проект footbal
+### **[открыть код](https://github.com/Khatciev/projekt)** / **[демо](https://football-events.herokuapp.com/)**
+
+   ---
    ![CodeWars](https://www.codewars.com/users/Khatciev/badges/large) 
----
+   ---
 ### Мои навыки:
 
 <div>
