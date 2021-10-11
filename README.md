@@ -46,4 +46,4 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=for-the-badge)
 ### Связь со мной:
 [![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white&&s=250)](https://t.me/rhxmm)
-![mail](https://img.shields.io/badge/Khatsiev-black?style=for-the-badge&logo=Mail.ru)
+[![mail](https://img.shields.io/badge/-mail.ru-111111?style=for-the-badge&logo=mail.ru)](https://mail.ru/khatsievdev@mail.ru)
