@@ -1,6 +1,10 @@
 # Командные проекты:
+### Проект Пицца:
+### **[открыть код](https://github.com/Khatciev/react-pizza)**
+### **[открыть демо](https://react-pizza-khatciev.vercel.app/)**
 ### Проект cars-rent:
  ### **[открыть код](https://github.com/Khatciev/cars_rent)**
+ 
 ### Проект footbal
 ### **[открыть код](https://github.com/Khatciev/projekt)**
 
